@@ -9,3 +9,11 @@ body {
     font-family: 'Noto Sans TC', sans-serif;
     text-transform: none;
     }
+
+.expude_icon{
+    color: #495057;
+}
+.expude_icon:hover{
+    background-color: #495057;
+    color: #fff;
+}
