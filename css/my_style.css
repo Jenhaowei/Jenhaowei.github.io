@@ -10,18 +10,7 @@ body {
     text-transform: none;
     }
 
-    .email{
-        background-color:#aqua;
-        color: #fff;
-    }
-    
-    .email:hover{
-        background-color: #495057;
-        color: #fff;
-    }
-
-
-
+ 
 .expedu_icon{
     color: #495057;
 }
