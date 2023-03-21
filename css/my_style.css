@@ -10,9 +10,9 @@ body {
     text-transform: none;
     }
 :root{
-    --bs-primary:#74a8c7;
+    --bs-primary:#0B00A6;
     --bs-primary-rgb: 11, 0, 166;
-    --bs-secondary:#c6d3fc;
+    --bs-secondary:#C07300;
     --bs-secondary-rgb: 238, 143, 0;
 }
 
