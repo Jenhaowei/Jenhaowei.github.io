@@ -9,6 +9,12 @@ body {
     font-family: 'Noto Sans TC', sans-serif;
     text-transform: none;
     }
+:root{
+    --bs-primary:#0b00a6;
+    --bs-primary-rgb: 11, 0, 166;
+    --bs-secondary:#c07300;
+    --bs-secondary-rgb: 238, 143, 0;
+}
 
 .email{
     color: #bd5d38;
@@ -35,7 +41,13 @@ body {
 }
 
 .expedu_icon:hover{
-    background-color: #fff;
-    color: #bd5d38;
+    color: var(--bs-secondary);
+}
 
+a{
+    color: var(--bs-primary);
+}
+
+.social-icons .social-icons:hover {
+    background-color:var(--bs-secondary);
 }
