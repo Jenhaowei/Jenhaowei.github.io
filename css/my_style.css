@@ -19,6 +19,17 @@ body {
     color: #fff;
 
 }
+
+.nav-item{
+    color: #bd5d38;
+}
+
+.nav-item:hover{
+    background-color: #495057;
+    color: #fff;
+
+}
+
 .expedu_icon{
     color: #495057;
 }
