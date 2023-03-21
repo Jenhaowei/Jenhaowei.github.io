@@ -10,7 +10,7 @@ body {
     text-transform: none;
     }
 :root{
-    --bs-primary:#DABEA7;
+    --bs-primary:#74a8c7;
     --bs-primary-rgb: 11, 0, 166;
     --bs-secondary:#c07300;
     --bs-secondary-rgb: 238, 143, 0;
