@@ -5,11 +5,10 @@ body {
     font-family: 'Noto Sans TC', sans-serif;
     text-transform: none;
     }
-    .subheading {
-    font-family: 'Noto Sans TC', sans-serif;
-    text-transform: none;
-    }
+    
 
+<<<<<<< HEAD
+=======
 .expedu_icon{
     color: #495057;
 }
@@ -19,3 +18,5 @@ body {
     color: #fff;
 
 }
+
+>>>>>>> 27333eff0d3c11775aa5596596cf2720c77487b9
