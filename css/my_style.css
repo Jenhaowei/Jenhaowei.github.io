@@ -17,7 +17,7 @@ body {
 }
 
 .email{
-    color: #bd5d38;
+    color:var(--bs-primary);
 }
 
 .email:hover{
