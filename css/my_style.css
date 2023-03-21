@@ -10,9 +10,16 @@ body {
     text-transform: none;
     }
 
+.nav-item{
+    background-color: #495057;
+    color: #fff;
+
+}
+
 .expedu_icon{
     color: #495057;
 }
+
 .expedu_icon:hover{
     background-color: #495057;
     color: #fff;
